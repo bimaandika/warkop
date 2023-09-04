@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Indomie Goreng",
+        "description": "Cintai usus mu makan indomie goreng tiap hari",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71B4YNvwCtL._SL1500_.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 2
+    },
+    {
+        "name": "Indomie Kuah",
+        "description": "Indomie Kuah pake sayur lezat dikala hujan",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://cf.shopee.co.id/file/fb5d1592dc223d9659835619add43541",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 2
+    },
+    {
+        "name": "Indomie Goreng Jumbo",
+        "description": "Indomie Goreng pake sayur super kenyang dikala lapar",
+        "stock": 13,
+        "price": 9000,
+        "imgUrl": "https://assets.klikindomaret.com/share/10003801/10003801_1.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 2
+    },
+    {
+        "name": "Nasi Omlet",
+        "description": "Nasi pake telur omlet",
+        "stock": 13,
+        "price": 10000,
+        "imgUrl": "https://3.bp.blogspot.com/-3nLhHYu4nK0/VuPvGSZds7I/AAAAAAAAFtQ/GLzAD24HhI8AZVpLCStHXnCHMwLLmX_3g/s1600/nasi%2Bomelet_1.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Nasi Kornet",
+        "description": "Nasi pake Kornet goreng yang enak",
+        "stock": 13,
+        "price": 12000,
+        "imgUrl": "https://cf.shopee.co.id/file/e708f42b6056ae2901e5125d1799a91d",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Nasi Sarden",
+        "description": "Nasi pake Sarden yang segar dan manis asin",
+        "stock": 13,
+        "price": 11000,
+        "imgUrl": "https://www.pohian.com/wp-content/uploads/2020/05/ABC-Sarden-Ext-Pedas-425-PH.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Nasi Orak-Arik",
+        "description": "Nasi pake telur di orak arik oseng bumbu",
+        "stock": 13,
+        "price": 10000,
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2020/09/03/resep-telur-orak-arik-chef-selebriti-2.jpeg?w=700",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Nasi Telor Dadar / Ceplok",
+        "description": "Nasi pake telur dadar / ceplok yang simpel",
+        "stock": 13,
+        "price": 10000,
+        "imgUrl": "https://littlegreenspoon.ie/wp-content/uploads/2014/10/IMG_9933-Version-2-1024x760.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Nurdin",
+        "description": "Nutrisari dingin segarr",
+        "stock": 13,
+        "price": 3000,
+        "imgUrl": "https://s3.bukalapak.com/img/313057263/w-1000/Nutrisari_Lemon_Tea_Per_Renceng___10pcs__.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Kopi ABC",
+        "description": "Ngopi sachet cocok buat begadang",
+        "stock": 13,
+        "price": 3000,
+        "imgUrl": "https://i.etsystatic.com/12083047/r/il/12032e/2942700376/il_1588xN.2942700376_3zkm.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Luwak White Coffee",
+        "description": "Ngopi sachet yang sehat biar ga asam lambung",
+        "stock": 13,
+        "price": 4000,
+        "imgUrl": "https://s1.bukalapak.com/img/173399325/w-1000/Luwak_White_Coffee_Original_Per_Renceng___10pcs.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Kopi Good Day",
+        "description": "Ngopi guddeuy biar harimu makin berasa",
+        "stock": 13,
+        "price": 3000,
+        "imgUrl": "https://cdn11.bigcommerce.com/s-5wf0xbtgyb/images/stencil/2560w/products/3508/7684/341e343a19f639cf445a31f3b5653df5__12489.1628843033.jpg?c=2",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Extra Joss",
+        "description": "Syudah extra ditambah joss jadi jreng",
+        "stock": 13,
+        "price": 4000,
+        "imgUrl": "https://store.iloilosupermart.com/wp-content/uploads/2020/06/4b76183e05e6fab33a6293a5201895a5.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Kuku Bima",
+        "description": "Minum minuman olahan kuku dari galaksi bima sakti",
+        "stock": 13,
+        "price": 4000,
+        "imgUrl": "https://cdn11.bigcommerce.com/s-5wf0xbtgyb/images/stencil/1280w/products/3072/4703/91ITfy-EfuL._SL1500___51376.1628922624.jpg?c=2",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Extra Joss Susu",
+        "description": "Syudah extra ditambah joss jadi jreng plus syusyu",
+        "stock": 13,
+        "price": 6000,
+        "imgUrl": "https://1.bp.blogspot.com/-GtFMViu9EeU/XsaRx9Zp21I/AAAAAAAAA34/K8ADI15_9IM07DRAUT50SO5mmPLct3B8wCNcBGAsYHQ/s640/extra-joss.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Kuku Bima Susu",
+        "description": "Minum minuman olahan kuku dari galaksi bima sakti plus syusyu",
+        "stock": 13,
+        "price": 6000,
+        "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f66cce73-8ca2-43b3-ae70-3fc4a1dbfaa6_Go-Biz_20220811_224131.jpeg?auto=format",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Susu Frisian Flag",
+        "description": "Susu bendera terbaik sepanjang karir ibu migropah",
+        "stock": 13,
+        "price": 3000,
+        "imgUrl": "https://s2.bukalapak.com/img/7045672742/w-1000/Susu_Frisian_Flag___Susu_Bendera_Sachet.png",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 3
+    },
+    {
+        "name": "Cilok",
+        "description": "Nyemil cilok biar cinta nya ga callback",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://soyummyrecipes.co.uk/wp-content/uploads/2021/05/Cilok-1.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "name": "Cimol",
+        "description": "Nyemil cimol supaya cintanya ga promise doang",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://bisnisukm.com/uploads/2020/07/bisnis-cimol.png",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "name": "Otak-otak",
+        "description": "Nyemil otak, supaya encer berpikir",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://www.foodadvisor.my/attachments/015297e7f583477467311071df1ce95ea1c68227/store/fill/800/500/d5c76e892ac9daaf06184bd7f9e67f98abd7b28bb69453a18d3948f46145/featured_image.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "name": "Tahu Bulat",
+        "description": "Sebenernya bumi itu datar",
+        "stock": 13,
+        "price": 5000,
+        "imgUrl": "https://3.bp.blogspot.com/-uFBh8QHFqm4/WTqUhMHhRnI/AAAAAAAADvE/lUUmPV8TpMkh4tjelJ_5VXI1c6ccmlfSwCLcB/s1600/IMG_7096%2Bcopy.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 4
+    },
+    {
+        "name": "Nasi",
+        "description": "Buat pecinta karbo dan portugal wajib sih beli 2",
+        "stock": 13,
+        "price": 4000,
+        "imgUrl": "https://asset.kompas.com/crops/LRG5sQf_VL_fQLL2d_TbtffNzMg=/0x0:0x0/750x500/data/photo/2020/01/14/5e1d45f4793c5.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 5
+    },
+    {
+        "name": "Kerupuk",
+        "description": "Minimal pake kerupuk lah yaaa",
+        "stock": 13,
+        "price": 1000,
+        "imgUrl": "https://www.flokq.com/blog/wp-content/uploads/2020/08/kerupuk-putih.jpg",
+        "status": "Active",
+        "authorId": 1,
+        "categoryId": 5
+    }
+]

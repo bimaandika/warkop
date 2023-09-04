@@ -1,0 +1,18 @@
+[
+    {
+        "username": "Ferdi",
+        "email": "ferdi@gmail.com",
+        "password": "12345678",
+        "role": "admin",
+        "phoneNumber": "081234567890",
+        "address": "Jl. Pengelapan Uang"
+    },
+    {
+        "username": "Sambo",
+        "email": "sambo@gmail.com",
+        "password": "12345678",
+        "role": "staff",
+        "phoneNumber": "081212345678",
+        "address": "Jl. Menuju Kegelapan"
+    }
+]
